@@ -46,10 +46,10 @@ global.ppulsa2 = '085727492435' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/denarabot26'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285727492435'
-global.nomorown = '6281215626270'
-global.namebot = 'DENARA-BOT-V1'
-global.nameown = 'DENARA BOT'
+global.nomorbot = '6283107322844'
+global.nomorown = '6283857687084'
+global.namebot = 'XyroxBotz'
+global.nameown = 'JahOfc'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 DENARA-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘DENARA-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ DENARA-BOT-V1 '
+global.wm = '                「 Xyrox-Bot 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Xyrox-Bot ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ XyroxBotz '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By DENARA-BOT`
-global.author = '                「 DENARA-BOT-V1  あ」'
+global.author = '                「 JahOFC  あ」'
 
 
 /*============== LOGO ==============*/
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'DENARA-BOT-V1'
-global.stickauth = `By ©DENARA BOT`
+global.stickpack = 'XyroxBotz'
+global.stickauth = `By ©JahOfc`
 
 global.multiplier = 38 // The higher, The harder levelup
 
