@@ -30,11 +30,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/denarajb'
-global.sgh = '-' //github
-global.sgc = 'https://chat.whatsapp.com/BiHY7oEBhQo1CsDeZgQ5dA' //group whatsapp
+global.sig = '-'
+global.sgh = 'https://github.com/zaahost/' //github
+global.sgc = 'https://chat.whatsapp.com/LqbvV6R1EJpIISHIU6S28T' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/c/DenaraBot' // my youtube channel
+global.snh = 'https://youtube.com/c/Xyrox27' // my youtube channel
 
 /*============== PAYMENT ==============*/
 global.pdana = '083857687084' //dana
@@ -60,8 +60,7 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 global.owner = [
   ['6283857687084', 'JahOfc', true],
   ['6283107322844', 'XyroxBotz', true],
-  ['-', 'isi_kalau_ada', true],
-  ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
+ //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
